@@ -1,0 +1,69 @@
+{
+
+"signup": {
+   
+        "name" : "Maria Cruzes",
+        "cpf" : "12345678900",
+        "email" : "cruzesmaria@gmail.com",
+        "whatsapp" : "11999999999",
+        "address": {
+            "postalcode": "88804150",
+            "street": "Rua Victor Hugo",
+            "number": "1000",
+            "details": "ap 44",
+            "district": "Santa Bárbara",
+            "city_state": "Criciúma/SC"
+        },
+        
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "cpf_inv":{
+         
+        "name" : "ezionetos",
+        "cpf" : "1a2345678900",
+        "email" : "cruzesmaria@gmail.com",
+        "whatsapp" : "11999999999",
+        "address": {
+            "postalcode": "88804150",
+            "street": "Rua Victor Hugo",
+            "number": "1000",
+            "details": "ap 44",
+            "district": "Santa Bárbara",
+            "city_state": "Criciúma/SC"
+        },
+        
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+
+
+        
+
+
+    },
+
+
+    "email_inv": {
+   
+        "name" : "Maria Cruzes",
+        "cpf" : "12345678900",
+        "email" : "cruzesmaria.combb.r",
+        "whatsapp" : "11999999999",
+        "address": {
+            "postalcode": "88804150",
+            "street": "Rua Victor Hugo",
+            "number": "1000",
+            "details": "ap 44",
+            "district": "Santa Bárbara",
+            "city_state": "Criciúma/SC"
+        },
+        
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+
+    }
+
+
+
+}
